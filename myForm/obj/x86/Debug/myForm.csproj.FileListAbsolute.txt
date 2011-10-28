@@ -1,0 +1,5 @@
+F:\_tempFiles\myVsForm\myForm\bin\Debug\myForm.exe
+F:\_tempFiles\myVsForm\myForm\bin\Debug\myForm.pdb
+F:\_tempFiles\myVsForm\myForm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_tempFiles\myVsForm\myForm\obj\x86\Debug\myForm.exe
+F:\_tempFiles\myVsForm\myForm\obj\x86\Debug\myForm.pdb
