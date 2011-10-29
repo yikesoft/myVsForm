@@ -1,4 +1,4 @@
-//﻿也是中文的js
+//也是中文的js
 
 //zzzzzzzzzzzzzzz
 
