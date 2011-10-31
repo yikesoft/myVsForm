@@ -19,6 +19,7 @@ namespace myForm {
         public static void newMethod() {
 
             // new commit 
+            // 这里是中文
         }
 
 
