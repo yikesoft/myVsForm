@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myForm", "myForm\myForm.csproj", "{27C063C3-866D-4E2E-9972-459F52094304}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9086D4E9-22C2-4A95-8EC4-F21A784F7692}"
-	ProjectSection(SolutionItems) = preProject
-		中文vs.txt = 中文vs.txt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

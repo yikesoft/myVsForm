@@ -43,9 +43,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.html" />
-    <Content Include="中文文本.txt" />
-    <Content Include="在vs中添加的中文文件.txt" />
-    <Content Include="新中文内容.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
