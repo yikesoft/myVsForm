@@ -44,6 +44,7 @@
   <ItemGroup>
     <Content Include="Index.html" />
     <Content Include="目录\文件2.txt" />
+    <Content Include="目录\文件3.htm" />
     <Content Include="目录\文档首页.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
