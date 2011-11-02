@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.html" />
+    <Content Include="文件状态1.txt" />
     <Content Include="目录\文件2.txt" />
     <Content Include="目录\文件3.htm" />
     <Content Include="目录\文件5.txt" />
